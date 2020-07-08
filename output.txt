@@ -1,0 +1,2 @@
+enter three numbers:
+the sum of three numbers:17
